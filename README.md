@@ -1,5 +1,8 @@
 
 # Beginners C Program Examples
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3284a7d7fd254ae69004ee94220ef33c)](https://app.codacy.com/manual/easyawslearn/beginners-C-program-examples?utm_source=github.com&utm_medium=referral&utm_content=easyawslearn/beginners-C-program-examples&utm_campaign=Badge_Grade_Settings)
+
 ## :octocat: Fork and :eight_pointed_black_star: star this repo
 Simple, short and sweet  beginners friendly C language programs 
 
